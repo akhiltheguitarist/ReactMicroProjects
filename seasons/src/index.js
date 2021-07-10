@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react'
 import ReactDOM from 'react-dom'
 import SeasonDisplay from './SeasonDisplay'
 import Spinner from './spinner'
+
 // const App = () => {
 //     const [location,setLocation] = useState(null);
     
