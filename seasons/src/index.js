@@ -19,7 +19,6 @@ import Spinner from './spinner'
 //     return <div>Latitude: {location}</div>
 // }
 
-
 class App extends React.Component{
     constructor(props){
         super(props)
